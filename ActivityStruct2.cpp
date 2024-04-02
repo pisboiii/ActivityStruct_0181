@@ -28,7 +28,7 @@ int main() {
 	cout << "\t Nama kota : "; 
 	cin >> mhs.alamat.kota;
 
-	cout << "Umur mahasiswa : ";
+	cout << "Umur mahasiswa : "; 
 	cin >> mhs.umur;
 
 	cout << endl;
